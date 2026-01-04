@@ -87,3 +87,32 @@ cd Recent-Layoffs-Case-Study
 
 # Open notebook
 jupyter notebook study.ipynb
+
+
+## 🌟 Future Extensions
+
+- 📉 **Predictive Modeling:** Forecast layoff trends using time-series models  
+- 📰 **Sentiment Analysis:** Correlate layoffs with news & social media trends  
+- 📊 **Interactive Dashboards:** Real-time data exploration for stakeholders  
+
+---
+
+## ⚖️ License
+
+This project is licensed under the **MIT License** – see the `LICENSE` file.
+
+---
+
+## 🎨 Fun Animations & Badges
+
+![Animated](https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif)
+
+---
+
+## 💡 Author
+
+**Neeraj Kumar**  
+- GitHub: [neerajcodes888](https://github.com/neerajcodes888)  
+- LinkedIn: [Neeraj Kumar](https://www.linkedin.com/in/neeraj-kumar-9a75811a2/)  
+- Email: neerajmail888@gmail.com
+
