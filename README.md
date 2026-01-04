@@ -80,3 +80,10 @@ Startups shutting down, funding droughts, or global recessions trigger abrupt la
 ### Prerequisites
 ```sh
 pip install pandas matplotlib seaborn sqlalchemy jupyter
+
+# Clone the repo
+git clone https://github.com/neerajcodes888/Recent-Layoffs-Case-Study.git
+cd Recent-Layoffs-Case-Study
+
+# Open notebook
+jupyter notebook study.ipynb
